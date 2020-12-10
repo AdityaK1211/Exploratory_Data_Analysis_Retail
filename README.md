@@ -369,6 +369,7 @@ data_top_10_sub_categories.head(10)
 
 # Creating Dashboards
 Dash is an open source framework created by the plotly team that leverages Flask, plotly.js and React.js to build custom data visualization apps. This article is a high level overview of how to get started with dash to build a simple, yet powerful interactive dashboard.
+
 <img src='assets/img/img2.jpg' height='200px'>
 
 Create dashboard.py or use Google Colab. In this project, dashboard.py is used to run the dashboard on local server.
